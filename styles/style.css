@@ -1,0 +1,15 @@
+/* google font import */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+.manrope-font{
+    font-family: "Manrope", sans-serif;
+}
+
+/* tailwind css import */
+@import "tailwindcss";
+
+
+
+/* .banner-header{
+    line-height: 80px;
+} */
